@@ -56,50 +56,10 @@ I love working at the intersection of systems thinking and user experience — w
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 [Policy Compiler](https://github.com/sid-rudani/Policy_Compiler) — *Systems / Security*
-A production-ready **DSL compiler in C++17** for RBAC/ABAC policy verification. Built a full 6-stage compilation pipeline — lexer → parser → semantic analysis → policy analysis → code generation → output. Automatically surfaces conflicts, privilege escalation paths, and redundancies. Exports to JSON, YAML, or matrix format and is CI/CD-ready with clean exit codes.
-
-`C++17` `CMake` `Compiler Design` `Security` `DSL` `RBAC/ABAC`
-
----
-
-### 📸 [Neostash](https://github.com/sid-rudani/neostash) — *Mobile / AI*
-A **gallery app reimagined** using OpenAI's CLIP model to enable **semantic search over thousands of photos**. Instead of traditional metadata search, Neostash understands what's *in* your photos — built with TypeScript and React Native on Expo.
-
-`TypeScript` `React Native` `Expo` `OpenAI CLIP` `Semantic Search` `Mobile`
-
----
-
-### 🍳 [Smart Kitchen Inventory](https://github.com/sid-rudani/smart-kitchen-inventory) — *Full-Stack / AI*
-An AI-powered kitchen manager built with **Next.js, Supabase, and Ollama**. Tracks inventory, suggests recipes based on what you have, and runs a local LLM (llama3.1) for AI features — no cloud dependency required.
-
-`Next.js` `TypeScript` `Supabase` `Ollama` `LLM` `App Router`
-
----
-
-### 🤖 [Take-Inspo](https://github.com/sid-rudani/Take-Inspo) — *ML / Generative AI*
-A **generative model** that learns patterns from a text dataset and produces new, inspired outputs. Explores how machines can internalize style, tone, and structure — then create something new.
-
-`Python` `Jupyter Notebook` `Generative AI` `NLP`
-
----
-
-### 💬 [CSV2Chat](https://github.com/sid-rudani/CSV2Chat) — *Frontend / Data*
-A **high-performance React app** that parses, visualizes, and customizes WhatsApp chat exports entirely in the browser. Zero backend, zero uploads — your data stays yours.
-
-`JavaScript` `React` `CSV Parsing` `Data Visualization` `Privacy-First`
-
----
-
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Siddharth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sid-rudani&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sid-rudani&layout=compact&theme=tokyonight&hide_border=true)
+Too shy to brag 🧠
+> underrated profile tbh :]]
 
 </div>
 
